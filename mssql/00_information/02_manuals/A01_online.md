@@ -2,12 +2,12 @@
 
 # 01_online_manual
 
-#### Sql server
-* https://www.youtube.com/watch?v=bXbm0qGwgAw
+#### SQL Server - RDBMS
+* [SQL Server Tutorial - Understanding the core components](https://www.youtube.com/watch?v=bXbm0qGwgAw)
     
 #### Ssms – sql server management studio
-* https://www.youtube.com/watch?v=Q8gBvsUjTLw
-* https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL08903FB7ACA1C2FB&index=2
+* [SQL Server Management Studio (SSMS) | Full Course](https://www.youtube.com/watch?v=Q8gBvsUjTLw)
+* [Connecting to SQL Server using SSMS](https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL08903FB7ACA1C2FB&index=2)
 
 ####  Northwind Database , tables and relationships
 * https://www.youtube.com/watch?v=3j9PFyvakOA
