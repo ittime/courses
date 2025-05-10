@@ -29,7 +29,7 @@
 * https://www.youtube.com/watch?v=A9TOuDZTPDU&list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW&index=3
 * https://www.youtube.com/watch?v=vxlD94G0Geo
   
-#### `And`,`or` \not operators
+#### `And` ,`or`,`not` operators
 *  https://www.w3schools.com/sql/sql_and_or.asp
 *  https://youtu.be/l3Ky5btytSY
   
@@ -41,64 +41,64 @@
 ### 2 fix
 
 
-Between
+#### Between
 https://www.w3schools.com/sql/sql_between.asp
 
-Like
-https://www.w3schools.com/sql/sql_like.asp
-https://www.w3schools.com/sql/sql_wildcards.asp
-https://www.youtube.com/watch?v=ZABT_3t4Iew
+#### Like
+* https://www.w3schools.com/sql/sql_like.asp
+* https://www.w3schools.com/sql/sql_wildcards.asp
+* https://www.youtube.com/watch?v=ZABT_3t4Iew
 
-Is null
-https://www.w3schools.com/sql/sql_null_values.asp
-top N
-https://www.w3schools.com/sql/sql_top.asp
+#### Is null
+* https://www.w3schools.com/sql/sql_null_values.asp
 
-Order by 
-https://www.w3schools.com/sql/sql_orderby.asp
+#### top N
+* https://www.w3schools.com/sql/sql_top.asp
 
-פונקציות סקלריות :
-https://www.w3schools.com/sql/sql_ref_sqlserver.asp
+#### Order by 
+* https://www.w3schools.com/sql/sql_orderby.asp
+
+#### Scalar functions
+* https://www.w3schools.com/sql/sql_ref_sqlserver.asp
 
 
-פונקציות זמן ותאריך
-https://www.youtube.com/watch?v=6_95vbBrrXI
-https://www.youtube.com/watch?v=eYsizQVa_EU
+#### Time and date functions
+* https://www.youtube.com/watch?v=6_95vbBrrXI
+* https://www.youtube.com/watch?v=eYsizQVa_EU
 
-מתמטיות :  ceiling , floor ,round
-https://www.youtube.com/watch?v=gJ4PDXFHjbc
+#### Mathematics: ceiling, floor, round
+* https://www.youtube.com/watch?v=gJ4PDXFHjbc
 
-פונקציות מחרוזת – charindex , substring ,right  , left…
-https://www.youtube.com/watch?v=vN4sy5nHn6k
-https://www.youtube.com/watch?v=qJFr-R76r9A
-https://www.youtube.com/watch?v=ALnM6d7OQUs
+#### String functions – charindex , substring , right , left…
+* https://www.youtube.com/watch?v=vN4sy5nHn6k
+* https://www.youtube.com/watch?v=qJFr-R76r9A
+* https://www.youtube.com/watch?v=ALnM6d7OQUs
 
 
 ----
 
 
-קיראו על נושא ה NULL והטיפול ב NULL
-https://learn.microsoft.com/en-us/training/modules/introduction-to-transact-sql/5b-handle-nulls
+#### Read about the topic of NULL and NULL handling
+* https://learn.microsoft.com/en-us/training/modules/introduction-to-transact-sql/5b-handle-nulls
 
 
-פונקציות המרה cast , convert 	
-https://www.youtube.com/watch?v=8GHUfb5k-a8
-https://www.mssqltips.com/sqlservertip/6971/sql-cast-sql-convert-function/
+#### Conversion functions cast, converthttps://www.youtube.com/watch?v=8GHUfb5k-a8
+* https://www.mssqltips.com/sqlservertip/6971/sql-cast-sql-convert-function/
 
 
-פונקציית ISNULL
-https://www.youtube.com/watch?v=vi_GdJn1evI
+#### ISNULL function
+* https://www.youtube.com/watch?v=vi_GdJn1evI
 
-פונקציית CASE
-https://www.youtube.com/watch?v=Twusw__OzA8
+#### CASE function
+* https://www.youtube.com/watch?v=Twusw__OzA8
 
-Data types
-https://www.sqlservertutorial.net/sql-server-basics/sql-server-data-types/
-https://www.youtube.com/watch?v=AaHCzkWOQ2c
+#### Data types
+* https://www.sqlservertutorial.net/sql-server-basics/sql-server-data-types/
+* https://www.youtube.com/watch?v=AaHCzkWOQ2c
 
-JOINS
-קראו באתר של מייקרוסופט את הפרק הבא:
-https://learn.microsoft.com/en-us/training/modules/query-multiple-tables-with-joins/
+#### JOINS
+* Read
+    * https://learn.microsoft.com/en-us/training/modules/query-multiple-tables-with-joins/
 
 בחוברת הלימוד לקרוא לעומק את פרק 5 – JOINS  עמודים 43-49 
 בחוברת תרגילים עמודים 9-10  להשלים את כל התרגילים -   בנושא JOINS
